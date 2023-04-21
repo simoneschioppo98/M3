@@ -1,0 +1,62 @@
+
+/* es 1 */
+/* .jumbotron h1{
+  color: red;
+} */
+
+/* es 2 */
+/* nav span {
+    color: red;
+} */
+
+/* es 3  */
+/* .jumbotron > .col-md-6 >.mb-0 > a {
+    color: red;
+} */
+
+/* es 4  */
+/* .container > .row > .col-md-8 > .blog-post:first-of-type{
+    background-color: red;
+} */
+
+/* es 5 */
+/* .blog-post:first-of-type hr{
+    background-color: red;
+} */
+
+/* es 6 */
+/* .nav > span:nth-child(even){
+    color: blue;
+} */
+
+/* es 7 */
+/* aside ol:first-of-type li{
+   font-size: 500px;
+} */
+
+/* es 8  */
+/* .blog-post:nth-of-type(2) > .blog-post-meta a {
+    font-size: 1000px; 
+} */
+
+/* es 9  */
+/* .blog-post:nth-last-of-type(3) > ul:nth-child(2) li {
+    color: red;
+} */
+
+
+/* es 10 */
+/* .float-right {
+    font-size: 600px;
+} */
+
+/* es 11 */
+/* .blog-pagination> .btn-outline-secondary{
+background-color: red;
+    
+} */
+
+/* es 12  */
+/* .blog-footer > .text-center:last-of-type a{
+    font-size: 300px;
+} */
