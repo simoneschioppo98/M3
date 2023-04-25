@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(104, 104, 104);
+}
+
+#mynav{
+    background-color: rgba(66, 63, 63 , 0.8);
+}
+
+.navbar-brand , .nav-link {
+    color: rgb(74, 22, 122);
+}
+
+#mynav .navbar-brand:hover{
+    color: black;
+}
+
+#mynav .nav-link:hover{
+    color: black;
+  
+}
