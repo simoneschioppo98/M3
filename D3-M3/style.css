@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(104, 104, 104);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(104,104,104,1) 58%, rgba(156,0,255,1) 100%);
 }
 
 #mynav{
@@ -7,7 +8,7 @@ body{
 }
 
 .navbar-brand , .nav-link {
-    color: rgb(74, 22, 122);
+    color: white;
 }
 
 #mynav .navbar-brand:hover{
@@ -18,3 +19,21 @@ body{
     color: black;
   
 }
+
+.navbar{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.card {
+    background-color: transparent; 
+    border: none;
+  }
+  
+  .card-body {
+    text-align: center; 
+    color: white;
+    font-weight: bold;
+  }
+
+  
