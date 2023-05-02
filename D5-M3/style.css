@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fa-regular{
+    font-size: 25px;
+}
+
+form img {
+    background-color: white;
+    border-radius: 50px;
+}
+
+.jumbo{
+    background-color: blueviolet;
+}
