@@ -24,3 +24,9 @@ form img {
 h2{
     margin-left: 270px;
 }
+
+.fa-regular:hover{
+   color: red;
+   transition: .5s all;
+}
+
