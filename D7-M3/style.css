@@ -1,8 +1,59 @@
+
+/*ridimensionamento body*/
+
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     background-color: #333;
+}
+
+
+
+/*aggiunta keyframe per animazione movie-box*/
+
+@keyframes shower{
+    0%{}
+    50%{
+        transform: translateY(-100px);
+    }
+    100%{
+        transform: scale(1.2);
+    }
+
+}
+
+/*aggiunta animazioni ai movie-box e relativi accorgimenti*/
+.movie-box:hover{
+    animation: shower 3s ease 0.5s forwards;
+    cursor: pointer;
+    z-index: 5;
+}
+
+.movie-commands{
+  
+    display: none;
+}
+
+.movie-info{
+    
+    display: none;
+}
+/*classe 'reveal'usata in javascript*/
+.reveal{
+    display: block;
+}
+
+
+/*personalizzazione footer pagina*/
+.ending{
+    margin-left: 500px;
+    margin-right: 600px;
+    margin-top: 200px;
+}
+
+.icons>.fa-brands{
+    font-size: 20px;
 }
 
 
